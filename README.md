@@ -6,6 +6,8 @@
 
 [Staro Ayu 0.0.1](https://github.com/starohub/staroayu/raw/main/dl/staroayu.apk)
 
+* Username/password: webd / webd
+
 * **Above downloaded file has following license**
 
 ### License
