@@ -50,3 +50,10 @@
  **SH**
  */
 ```
+
+### Sample APK built by Staro Coley
+
+[Staro Payara](https://github.com/starohub/staroayu/raw/main/dl/staropayara.apk)
+
+**Above APK is built by [Staro Coley](https://github.com/starohub/starocoley)**
+
