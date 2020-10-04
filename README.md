@@ -57,3 +57,6 @@
 
 **Above APK is built by [Staro Coley](https://github.com/starohub/starocoley)**
 
+* Username/password: webd / webd
+
+* [License](https://github.com/starohub/staroayu/blob/main/LICENSE.md)
